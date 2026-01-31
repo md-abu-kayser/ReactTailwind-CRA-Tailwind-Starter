@@ -48,7 +48,7 @@ A small, fast React application scaffolded for component-driven development with
 
 **Verify:**
 
-```powershell
+```bash
 node -v
 npm -v
 ```
