@@ -142,7 +142,7 @@ src/
 
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
-- **Project:** _ReactTailwind-CRA-Tailwind-Starter_
+- **Project:** _ReactTailwind CRA Tailwind Starter_
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
