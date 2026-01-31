@@ -50,6 +50,9 @@ A small, fast React application scaffolded for component-driven development with
 
 ```bash
 node -v
+```
+
+```bash
 npm -v
 ```
 
