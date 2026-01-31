@@ -46,7 +46,7 @@ A small, fast React application scaffolded for component-driven development with
 - Git (optional)
 - PowerShell or a terminal
 
-Verify:
+**Verify:**
 
 ```powershell
 node -v
