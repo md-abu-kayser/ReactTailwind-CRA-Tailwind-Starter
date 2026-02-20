@@ -1,4 +1,4 @@
-# React with Tailwind
+# React + Tailwind - CRA Starter (Production-ready)
 
 > Professional, production-ready starter combining Create React App and Tailwind CSS.
 
