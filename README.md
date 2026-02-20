@@ -56,7 +56,7 @@ node -v
 npm -v
 ```
 
-### Quick start--> Windows and PowerShell
+### Quick start - Windows and PowerShell
 
 - From the project root (C:\projects\react-with-tailwind):
 
@@ -138,16 +138,17 @@ src/
 ### Contact and Maintainer
 
 - **Name:** Md Abu Kayser - Full-Stack Engineer
+- **Project:** _react_tailwind_starter_
 - **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
-- **Project:** _ReactTailwind CRA Tailwind Starter_
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
 ---
 
-**Thank you for reviewing this project!**  
 It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for portfolio showcases, or professional demos.
+
+**Thank you for reviewing this project!**
 
 ---
