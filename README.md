@@ -19,16 +19,11 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 
 <!-- Infra & Runtime -->
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-
-<!-- Auth & Security -->
-
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs)
 
 <!-- Linting & Formatting -->
 
@@ -48,10 +43,8 @@
 - daisyUI docs: [https://daisyui.com/](https://daisyui.com/)
 - JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-- TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
 - Node.js docs: [https://nodejs.org/](https://nodejs.org/)
 - React docs: [https://react.dev/](https://react.dev/)
-- Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
 - ESLint docs: [https://eslint.org/docs/latest/](https://eslint.org/docs/latest/)
 - Prettier docs: [https://prettier.io/docs/](https://prettier.io/docs/)
 - Vite docs: [https://vite.dev/](https://vite.dev/)
@@ -137,7 +130,7 @@ npm start
 npm run build
 ```
 
-4. Serve the production build locally--> optional
+4. Serve the production build locally - optional
    Install a static server if you want to preview the production build:
 
 ```
@@ -196,17 +189,17 @@ src/
 
 ### Contact and Maintainer
 
-- **Name:** Md Abu Kayser - Full-Stack Engineer
 - **Project:** _react_tailwind_starter_
+- **Name:** Md Abu Kayser - Full-Stack Engineer
 - **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
 ---
 
-It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for portfolio showcases, or professional demos.
+It’s designed to be **clean, well-structured**, and **pleasant to explore** - perfect for professional demos.
 
 **Thank you for reviewing this project!**
 
